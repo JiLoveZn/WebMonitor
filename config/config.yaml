@@ -1,0 +1,16 @@
+#配置文件
+
+url: 
+timeout: 
+cron_time: 
+do:
+  - 
+  - 
+email:
+  subject: 
+  smtp:
+  port:
+  from:
+  password:
+  to:
+
